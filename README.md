@@ -1,2 +1,2 @@
 # codsoft-calculator
-here, the calculator design with the help of HTML, CSS, Javascript
+Here the Calculator is being ready using the HTML, CSS, Javascript. 
